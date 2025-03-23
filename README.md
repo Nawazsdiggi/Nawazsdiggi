@@ -1,5 +1,5 @@
 
-# Hi, I'm Nawaz Diggi ! 👋
+# Hi, I'm Nawazsharif Diggi ! 👋
 
 
 ## Welcome to Nawazdiggi's GitHub Profile!
