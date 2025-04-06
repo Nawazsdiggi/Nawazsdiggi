@@ -9,7 +9,7 @@
 
 
 ## 🚀 About Me
-👋 Hi, I'm Nawaz Diggi, a passionate **Data Analyst** And **Power BI Developer**  with a knack for turning raw data into actionable insights. I specialize in using data visualization, statistical analysis, and machine learning techniques to help organizations make data-driven decisions.
+👋 Hi, I'm Nawazsharif, a passionate **Data Analyst** And **Power BI Developer**  with a knack for turning raw data into actionable insights. I specialize in using data visualization, statistical analysis, and machine learning techniques to help organizations make data-driven decisions.
 
 ## 🚀 What I Do:
 - **Data Analysis**: Cleaning, processing, and analyzing data to uncover trends and patterns.
