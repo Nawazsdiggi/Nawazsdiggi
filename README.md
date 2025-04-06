@@ -2,7 +2,7 @@
 # Hi, I'm Nawazsharif Diggi ! 👋
 
 
-## Welcome to Nawazdiggi's GitHub Profile!
+## Welcome to Nawazsharif's GitHub Profile!
 
 
 
